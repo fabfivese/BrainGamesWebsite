@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.Optimization;
 using System.Web.UI;
 
-namespace Documents
+namespace WebSite2
 {
     public class BundleConfig
     {
