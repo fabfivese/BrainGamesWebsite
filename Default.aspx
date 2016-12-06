@@ -2,7 +2,7 @@
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
 
-    <div class="container-fluid">
+    <div class="container">
         <img class="img-responsive" src="Content/BrainGames/BrainGamesLogo.png" position="center" />
     </div>
 
