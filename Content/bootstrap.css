@@ -6005,6 +6005,7 @@ body.modal-open,
 
 .carousel {
   position: relative;
+  background-image:url("BrainGames/SpaceShooterRedux/Backgrounds/black.png")
 }
 
 .carousel-inner {
