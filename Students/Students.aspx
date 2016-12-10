@@ -3,17 +3,13 @@
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="Server">
     <h2><%: Title %>.</h2>
     <div class="container ">
-        <div class="row">
-            <a href=""><div class="col-sm-4" style="border-color: white; border-bottom-width: 1px; border-style: dashed;">
+        <div class="row"><a href=""><div style="float:left; border-color: white; border-bottom-width: 1px;">
                 <h1>Click here to View Scores!</h1>
-            </div></a>
-            <div class="col-sm-4">
-            </div>
-            <a href="Worm.aspx">
-                <div class="col-sm-4" style="border-color: white; border-bottom-width: 1px; border-style: dashed;">
+            </div></a> 
+            <a href="Worm.aspx"><div style="float:right; border-color: white; border-bottom-width: 1px;">
                     <h1>Click here to Play!</h1>
                     <br />
-                    <br />
+
                 </div>
             </a>
         </div>

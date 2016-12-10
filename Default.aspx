@@ -6,7 +6,7 @@
         <img class="img-responsive" src="Content/BrainGames/BrainGamesLogo.png" position="center" />
     </div>
 
- <hr />
+    <hr />
     <div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="3000">
         <!-- Indicators -->
         <ol class="carousel-indicators">
@@ -17,7 +17,7 @@
         <!-- Wrapper for slides -->
         <div class="carousel-inner" role="listbox">
             <div class="item active">
-                <img class="img-responsive" src="Content/BrainGames/MathWorms.png" style="height:300px;width:500px;" alt="Image" />
+                <img class="img-responsive" src="Content/BrainGames/MathWorms.png" style="height: 300px; width: 500px;" alt="Image" />
                 <div class="carousel-caption">
                     <h3></h3>
                     <p></p>
@@ -25,7 +25,7 @@
             </div>
 
             <div class="item">
-                <img src="Content/BrainGames/SpeedMath.png" style="height:300px;width:500px;" alt="Image" />
+                <img src="Content/BrainGames/SpeedMath.png" style="height: 300px; width: 500px;" alt="Image" />
                 <div class="carousel-caption">
                     <h3></h3>
                     <p></p>
@@ -48,15 +48,15 @@
         <br>
         <div class="row">
             <div class="col-sm-4">
-                <img src="Content/BrainGames/GoodGrades.jpg" class="img-responsive" style="width: 100%" alt="Image">
+                <img src="Content/BrainGames/GoodGrades.jpg" class="img-responsive" style="width: 100%; height: 250px;" alt="Image">
                 <p>What Brain Games Will do For You!</p>
             </div>
             <div class="col-sm-4">
-
-
+                <img src="Content/BrainGames/highscores.png" class="img-responsive" style="width: 100%; height: 250px;" alt="Image">
+                <p>High-Scores</p>
             </div>
             <div class="col-sm-4">
-                <img src="Content/donate.jpg" class="img-responsive" style="width: 100%; height:250px;" alt="Image">
+                <img src="Content/donate.jpg" class="img-responsive" style="width: 100%; height: 250px;" alt="Image">
                 <p>Donate</p>
             </div>
         </div>
